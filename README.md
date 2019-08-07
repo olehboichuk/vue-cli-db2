@@ -1,4 +1,4 @@
-# hello-world
+# vue-cli-db2
 
 ## Project setup
 ```
